@@ -1,0 +1,31 @@
+.accordion-container {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  gap: 1rem;
+}
+
+.item-container {
+  border-bottom: 1px solid white;
+  padding-bottom: 1rem;
+}
+
+.accordion-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.accordion-btn {
+  background: none;
+  color: white;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.accordion-content {
+  text-align: justify;
+  padding-right: 5rem;
+}
