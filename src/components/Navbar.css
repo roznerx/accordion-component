@@ -1,0 +1,44 @@
+.navbar-container {
+  background-color: #25292e;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.navbar-left {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  align-items: center;
+  gap: 1rem;
+  padding-left: 1rem;
+  font-style: normal;
+}
+
+.navbar-texts {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  align-items: center;
+  gap: 1rem;
+}
+
+.navbar-text-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+}
+
+.navbar-right {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  align-items: center;
+  gap: 1rem;
+  padding-left: 1rem;
+  font-style: normal;
+}

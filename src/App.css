@@ -1,23 +1,23 @@
 .App {
   text-align: center;
-  background-color: black;
+  background-color: white;
   display: flex;
   flex-direction: column;
 }
 
 .App-header {
-  background-color: black;
-  min-height: 20vh;
+  background-color: white;
+  min-height: 15vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #24292f;
 }
 
 .main-container {
-  background-color: black;
+  background-color: white;
   min-height: 80vh;
   display: flex;
   justify-content: center;
