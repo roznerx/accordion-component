@@ -3,6 +3,7 @@ import GithubIcon from '../utils/GithubIcon';
 import NavbarTexts from './NavbarTexts';
 import navbarTexts from '../utils/navbarTexts';
 import Searchbar from './Searchbar';
+import UserAvatar from '../utils/UserAvatar';
 
 export default function Navbar() {
   return (
@@ -13,6 +14,8 @@ export default function Navbar() {
       </div>
       <div className='navbar-right'>
         <Searchbar />
+        <button className='navbar-btn'>Dashboard</button>
+        <UserAvatar />
       </div>
     </nav>
   );

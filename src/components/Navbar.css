@@ -1,6 +1,6 @@
 .navbar-container {
   background-color: #25292e;
-  min-height: 5vh;
+  min-height: 8vh;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -41,4 +41,18 @@
   gap: 1rem;
   padding-left: 1rem;
   font-style: normal;
+}
+
+.navbar-btn {
+  display: flex;
+  border-radius: 5px;
+  border: 1px solid white;
+  padding: 2px;
+  height: 32px;
+  align-items: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
 }
