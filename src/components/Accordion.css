@@ -1,5 +1,5 @@
 .accordion-container {
-  color: white;
+  color: black;
   display: flex;
   flex-direction: column;
   width: 50vw;
@@ -7,7 +7,7 @@
 }
 
 .item-container {
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid black;
   padding-bottom: 1rem;
 }
 
@@ -19,7 +19,7 @@
 
 .accordion-btn {
   background: none;
-  color: white;
+  color: #1a7f37;
   border: none;
   font-size: 2rem;
   cursor: pointer;

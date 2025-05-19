@@ -9,6 +9,7 @@ function App() {
       <Navbar />
       <header className="App-header">
         <h1>GitHub's frequently asked questions</h1>
+        <button className='header-btn'>Contact us</button>
       </header>
       <div className='main-container'>
         <Accordion items={sampleData} />
