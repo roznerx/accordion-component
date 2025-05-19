@@ -13,8 +13,17 @@ Made by **roznerx** (ignaciorosner@gmail.com)
 
 **NOTE:** exercise didn't specify if multiple items could be opened at the same time, so I went for allowing to open just a single one; might refactor this according to the GitHub mock!
 
+**NOTE 2 [Next day update]:** I added a branch called ```github-mock``` and tried mocking the GitHub FAQ page, just like the project shows as an example; it is not perfect, but it includes a refactor in order to allow many accordion items to open at the same time.
+
 ## Screenshots:
+
+**Initial project:**
 
 ![imagen](https://github.com/user-attachments/assets/aa620efb-1a8f-481d-bb94-0914706c0b4c)
 ![imagen](https://github.com/user-attachments/assets/7f27f6b0-8696-4330-aa31-2a7fcfde7f34)
 ![imagen](https://github.com/user-attachments/assets/09bf12d4-722e-4827-85da-4e029e88ebdc)
+
+** GitHub FAQ Mock:**
+
+![imagen](https://github.com/user-attachments/assets/d8890a5b-891d-43cf-964f-06dd636a86ac)
+![imagen](https://github.com/user-attachments/assets/b84fdce9-4189-4f38-ae37-c16e6e7e0de1)
